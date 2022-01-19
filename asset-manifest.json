@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rock-spock-app/static/css/main.cb5c90f9.css",
+    "main.js": "/rock-spock-app/static/js/main.1fa4c469.js",
+    "static/js/787.6e43a0bd.chunk.js": "/rock-spock-app/static/js/787.6e43a0bd.chunk.js",
+    "static/media/bg-light-mode.png": "/rock-spock-app/static/media/bg-light-mode.6d9e0f68b78de2ae6232.png",
+    "static/media/bg-dark-mode.png": "/rock-spock-app/static/media/bg-dark-mode.4e06e650896ea9a5853a.png",
+    "index.html": "/rock-spock-app/index.html",
+    "main.cb5c90f9.css.map": "/rock-spock-app/static/css/main.cb5c90f9.css.map",
+    "main.1fa4c469.js.map": "/rock-spock-app/static/js/main.1fa4c469.js.map",
+    "787.6e43a0bd.chunk.js.map": "/rock-spock-app/static/js/787.6e43a0bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5c90f9.css",
+    "static/js/main.1fa4c469.js"
+  ]
+}
