@@ -1,0 +1,6 @@
+@media screen and (max-width: 550px) {
+  div.card {
+    width: 95vw;
+    min-width: 460px;
+  }
+}

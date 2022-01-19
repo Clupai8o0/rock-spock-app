@@ -1,0 +1,72 @@
+div.container > div.choice {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+span.float {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: 600;
+}
+span#float-right {
+	position: relative;
+	left: 7%;
+}
+span#float-left {
+	position: relative;
+	right: 40%;
+}
+
+div.user-win-container {
+	padding-top: 30px;
+	width: 90%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+div.user-win-container > h1.title {
+	width: 60%;
+}
+div.win-container {
+	width: 30%;
+	border: 5px solid var(--dflt-txt-clr);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.363);
+	border-radius: 20px;
+	height: 50px;
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+	padding-left: 20px;
+}
+
+div.user-choices {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+div.hands-container {
+	width: 85%;
+	padding-top: 15px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+hr {
+	width: 85%;
+}
+
+div.user-choices i:hover {
+	color: var(--highlight);
+	position: relative;
+	top: 2px;
+	cursor: pointer;
+	transition: 0.8s ease-in-out;
+	text-shadow: 0 3px 7px rgba(0, 0, 0, 0.44);
+}

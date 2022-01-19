@@ -1,3 +1,17 @@
+# About
+A simple rock, paper, scissors, lizard, and spock game. Probably from the Big Bang series idk. Has a **Dark Mode** and a **Light Mode**. *Not that mobile responsive I think...* [Live site](https://clupai8o0.github.io/rock-spock-app)
+
+# Preview
+## Light Mode
+![light mode](/assets/preview-light-mode.png)
+
+## Dark Mode
+![dark mode](/assets/preview-dark-mode.png)
+
+# Links
+- Background images by [Fadilah N. I.](https://unsplash.com/@imanitor)
+- Favicon by [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
