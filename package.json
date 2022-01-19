@@ -1,6 +1,7 @@
 {
 	"name": "rock-spock-app",
-	"version": "0.1.0",
+	"homepage": "https://Clupai8o0.github.io/rock-spock-app",
+	"version": "1.0.0",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/react-fontawesome": "^0.1.16",
@@ -24,7 +25,9 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": [
